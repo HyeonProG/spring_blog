@@ -1,0 +1,17 @@
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
+insert into board(title, content, author) values('테스트 제목', '테스트 내용', '홍길동');
